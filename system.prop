@@ -109,3 +109,7 @@ ro.usb.vid=2970
 # Wifi
 ro.disableWifiApFirmwareReload=true
 wifi.interface=wlan0
+
+# Wifi Display
+persist.debug.wfd.enable=1
+persist.sys.wfd.virtual=0
